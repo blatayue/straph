@@ -1,0 +1,16 @@
+// {
+//   "presets": ["env"],
+//   "plugins": ["transform-async-to-generator", "babel-polyfill", "transform-runtime", {
+//       // "polyfill": false,
+//       "regenerator": true
+//     }]
+// }
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "browsers": ["last 2 Chrome versions"]
+      }
+    }]
+  ]
+}
