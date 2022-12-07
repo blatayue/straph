@@ -13,7 +13,7 @@
     "babel-preset-env": "^1.6.0",
     "babel-register": "^6.26.0",
     "dotenv": "^4.0.0",
-    "express": "^4.15.4",
+    "express": "^4.17.3",
     "findorcreate-promise": "^1.2.0",
     "lodash": "^4.17.4",
     "mongoose": "^4.11.11",
